@@ -3,11 +3,11 @@
 ; Machine Organization
 ; Date of last update: 05/07/2023
 ;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-MyStack SEGMENT STACK			;
+MyStack SEGMENT STACK		
 	
-	DW 256 DUP	(?)				;
+	DW 256 DUP	(?)				
 	
-MyStack ENDS					;
+MyStack ENDS					
 ;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 MyData SEGMENT		
