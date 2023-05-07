@@ -1,11 +1,11 @@
 ; prog4 (file reader/writer) 
 ; J. George
 ; Machine Organization
-; Date of last update: 04/30/2023
+; Date of last update: 05/07/2023
 ;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-MyStack SEGMENT STACK				;
+MyStack SEGMENT STACK			;
 	
-	DW 256 DUP	(?)			;
+	DW 256 DUP	(?)				;
 	
 MyStack ENDS					;
 ;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
