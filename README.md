@@ -7,7 +7,7 @@ Prog4.exe [Filename.Filetype] [unsigned integer]
 with exactly one space between each item.
 
 This program reads a file formatted as such: 
-<name> <unsigned integer>
+[name] [unsigned integer]
 There can be any amount of white space between any of these items. 
 The program stores the arguments from the commmand tail and converts 
 the integer argument to an integer. 
