@@ -1,6 +1,7 @@
 ; prog4 (file reader/writer) 
 ; J. George
 ; Machine Organization
+; Professor T. Larue
 ; Date of last update: 05/07/2023
 ;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 MyStack SEGMENT STACK		
