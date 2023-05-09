@@ -3,7 +3,7 @@ Spring 2023 Machine Organization PROG4
 File reader/writer in 8086 assembly. 
 
 This program accepts two arguments via command tail in the following format:
-Prog4.exe *filename.File type* *unsigned integer* 
+Prog4.exe *filename.Filetype* *unsigned integer* 
 with exactly one space between each item.
 
 This program reads a file formatted as such: 
